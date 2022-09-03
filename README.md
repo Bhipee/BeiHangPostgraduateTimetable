@@ -1,0 +1,2 @@
+# BeihangPostGraduateTimeTable
+北航研究生课程表导出ics文件脚本，方便导入日历
